@@ -40,36 +40,26 @@ Abaixo, você encontra os links da documentação da API e do layout do app a se
 
 **Fique atento aos critérios de avaliação**
 
-Funcionar sem crashs;
-
-Cumprir os requisitos;
-
-Seguir um padrão de arquitetura (MVP, MVC, MVVM, VIPER, CLEAN CODE, etc);
-
-Boas práticas de programação.
+- Funcionar sem crashs;
+- Cumprir os requisitos;
+- Seguir um padrão de arquitetura (MVP, MVC, MVVM, VIPER, CLEAN CODE, etc);
+- Boas práticas de programação.
 
 **Não se esqueça de dar atenção a esses pontos**
 
-Usabilidade;
-
-Legibilidade do código;
-
-Manutenibilidade do código;
-
-Princípios SOLID;
-
-Lint;
-
-Domínio da linguagem de programação.
+- Usabilidade;
+- Legibilidade do código;
+- Manutenibilidade do código;
+- Princípios SOLID;
+- Lint;
+- Domínio da linguagem de programação.
 
 
 **Bônus**
 
-Testes unitários;
-
-Testes de interface;
-
-Adicionar campo de pesquisa na lista de “Favoritos”.
+- Testes unitários;
+- Testes de interface;
+- Adicionar campo de pesquisa na lista de “Favoritos”.
 
 
 ## Pronto para nos mostrar o resultado?
