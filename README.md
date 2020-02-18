@@ -1,5 +1,3 @@
-# quero-ser-paguer-iOS
-
 ![](https://i.imgur.com/2DNum1A.png)
 
 
@@ -35,6 +33,7 @@ Caso a operação seja realizada com sucesso, o usuário volta para a tela inici
 Abaixo, você encontra os links da documentação da API e do layout do app a ser seguido:
 
 [API]() 
+
 [Protótipo](https://xd.adobe.com/view/46e48c80-9e92-4a47-7b0b-fe7ff42ff9ed-30d5/) 
 
 ## Avaliação
@@ -42,24 +41,34 @@ Abaixo, você encontra os links da documentação da API e do layout do app a se
 **Fique atento aos critérios de avaliação**
 
 Funcionar sem crashs;
+
 Cumprir os requisitos;
+
 Seguir um padrão de arquitetura (MVP, MVC, MVVM, VIPER, CLEAN CODE, etc);
+
 Boas práticas de programação.
 
 **Não se esqueça de dar atenção a esses pontos**
 
 Usabilidade;
+
 Legibilidade do código;
+
 Manutenibilidade do código;
+
 Princípios SOLID;
+
 Lint;
+
 Domínio da linguagem de programação.
 
 
 **Bônus**
 
 Testes unitários;
+
 Testes de interface;
+
 Adicionar campo de pesquisa na lista de “Favoritos”.
 
 
