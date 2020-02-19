@@ -32,7 +32,7 @@ Caso a operação seja realizada com sucesso, o usuário volta para a tela inici
 
 Abaixo, você encontra os links da documentação da API e do layout do app a ser seguido:
 
-[API]() 
+[API](https://quero-ser-paguer.herokuapp.com/docs.html#!/docs/timeline) 
 
 [Protótipo](https://xd.adobe.com/view/46e48c80-9e92-4a47-7b0b-fe7ff42ff9ed-30d5/) 
 
